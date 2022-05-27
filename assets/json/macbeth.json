@@ -1,0 +1,59 @@
+[
+	[
+		{
+			"speaker" : "duncan",
+			"dialog" : "This castle hath a pleasant seat; the air\nNimbly and sweetly recommends itself\nUnto our gentle senses.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "banquo",
+			"dialog" : "This guest of summer,\nThe temple-haunting martlet, does approve,\nBy his loved mansionry, that the heaven's breath",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "banquo",
+			"dialog" : "Smells wooingly here: no jutty, frieze,\nButtress, nor coign of vantage, but this bird\nHath made his pendent bed and procreant cradle:"
+		},
+		{
+			"speaker" : "banquo",
+			"dialog" : "Where they most breed and haunt, I have observed,\nThe air is delicate."
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "See, see, our honour'd hostess!\nThe love that follows us sometime is our trouble,\nWhich still we thank as love. Herein I teach you",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "How you shall bid God 'ild us for your pains,\nAnd thank us for your trouble."
+		},
+		{	
+			"speaker" : "lady macbeth",
+			"dialog" : "All our service\nIn every point twice done and then done double\nWere poor and single business to contend\nAgainst those honours deep and broad wherewith",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "lady macbeth",
+			"dialog" : "Your majesty loads our house: for those of old,\nAnd the late dignities heap'd up to them,\nWe rest your hermits."
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "Where's the thane of Cawdor?\nWe coursed him at the heels, and had a purpose\nTo be his purveyor: but he rides well;",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "And his great love, sharp as his spur, hath holp him\nTo his home before us. Fair and noble hostess,\nWe are your guest to-night."
+		},
+		{	
+			"speaker" : "lady macbeth",
+			"dialog" : "Your servants ever\nHave theirs, themselves and what is theirs, in compt,\nTo make their audit at your highness' pleasure,\nStill to return your own.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "duncan",
+			"dialog" : "Give me your hand;\nConduct me to mine host: we love him highly,\nAnd shall continue our graces towards him.\nBy your leave, hostess.",
+			"newSpeaker" : "true"
+		}
+	]
+]
